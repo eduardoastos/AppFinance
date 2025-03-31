@@ -1,0 +1,33 @@
+export const lightTheme = {
+    primary: '#ffffff',
+    secondary: '#2e432e',
+    background: '#ffffff',
+    text: '#000',
+    border: '#373737',
+    sidebar: '#F0F0F0',
+    profile: '#fff',
+    textSidebar: '#000',
+    sidebarItem: '#F0F0F0',
+    sidebarItemActive: '#c5e3ff',
+    sidebarItemHover: '#c5e3ff',
+    buttonMode: '#fff',
+    tooltip: '#fff',
+    tooltipBorder: '#000',
+    inputLogin: '#F3F3F3',
+    inputBorder: '#A0A0A0',
+    usersDivBackground: '#f0f0f0',
+    formUserBackground: '#fff',
+    formUserInput: '#f0f0f0',
+    formUserBorder: '#A7A7A7',
+    arrowBack: '#000',
+    
+    deleteModalBackground: '#fff',
+
+    backgroundCancelButtonDeleteModal: '#fff',
+    borderCancelButtonDeleteModal: '#373737',
+    hoverCancelButtonDeleteModal: '#fff',
+
+    backgroundConfirmButtonDeleteModal: '#000000',
+    borderConfirmButtonDeleteModal: '#000',
+    hoverConfirmButtonDeleteModal: '#a52f2f',
+}

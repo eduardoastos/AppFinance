@@ -1,0 +1,30 @@
+export const darkTheme = {
+    primary: '#0F1A24',
+    secondary: '#2e432e',
+    background: '#0F1A24',
+    text: '#fff',
+    border: '#373737',
+    textSidebar: '#fff',
+    sidebar: '#0f1a24',
+    sidebarItem: '#21384A',
+    sidebarItemHover: '#21384A',
+    sidebarItemActive: '#21384A',   
+    buttonMode: '#0f1a24',
+    tooltip: '#0f1a24',
+    usersDivBackground: '#21384A',
+    formUserBackground: '#0f1a24',
+    formUserInput: '#304F69',
+    formUserBorder: '#8FB0CC',
+    arrowBack: '#fff',
+
+    deleteModalBackground: '#070d12',
+    deleteModalBorder: '#fff',
+
+    backgroundCancelButtonDeleteModal: '#070d12',
+    borderCancelButtonDeleteModal: '#373737',
+    hoverCancelButtonDeleteModal: '#070d12',
+
+    backgroundConfirmButtonDeleteModal: '#a52f2f',
+    borderConfirmButtonDeleteModal: '#fff',
+    hoverConfirmButtonDeleteModal: '#ff0000',
+}
